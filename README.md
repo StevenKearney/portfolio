@@ -1,80 +1,96 @@
 # 🧠 Steven Kearney - Project Index
 
-🚧 WIP, none of these links work yet, they are placeholders
+🚧 WIP, none of these links work yet, they are placeholders.
 
-This repository acts as a table of contents for all of my completed, public projects grouped by topic.
+This repository is the table of contents for all my finished projects that I decided to make public, grouped by topic.
 
-Projects linked below will take you to their specific repository, which contains:
-- A detailed README describing purpose, reason, goals, implemenation, and the outcome
-- Screenshots and/or diagrams
-- Reflections and lessons learned
+> These aren’t meant to be tutorials, they're records of what I built, what worked, and what I learned.
 
-Each project link below goes to its own dedicated repository with:
-- A detailed README describing goals, implementation, and outcomes
-- Screenshots and architecture diagrams
-- Reflections and lessons learned
+---
+
+### 🧩 README Contents per Project
+Each project repository follows the same formatting so everything is easy to read and compare.
+
+| Section | Description |
+|----------|-------------|
+| **Reason** | Why I did it. Maybe it was necessary, something I was curious about, or a chance to learn something new. |
+| **Goals** | What I set out to do, what I actually accomplished, what changed along the way, and what didn’t work out. |
+| **Outcome** | How it turned out and what I think of the results. |
+| **What I Learned** | The main lessons and takeaways that stuck with me. |
+| **What I Did** | A summary of the main work, decisions, and actions. |
+| **What I Struggled With** | The parts that were difficult and why. |
+| **Screenshots / Results** | Visuals or examples showing what I built or finished. |
+| **What I’d Do Differently** | What I’d change next time or try a new way. |
+| **Personal Reflection** | Thoughts on how the experience changed how I think or work. |
+
+---
+
+<br>
+
+>"Build, Break, Fix, Learn, Repeat"
 
 ---
 
 ## 🧰 Infrastructure & Automation
+
+The foundation of this index. It covers my Unraid setup, Docker stacks, VMs, monitoring tools, backup workflows, and everything else that keeps the homelab running smoothly.
+
 | Project | Description |
 |----------|--------------|
-| [Homelab Monitoring Dashboard](https://github.com/StevenKearney/homelab-monitoring) | Grafana + Prometheus metrics and alerting stack across Docker and VMs. |
-| [AI Docker Stack](https://github.com/StevenKearney/ai-docker-stack) | Self-hosted LLM and image generation tools using Open WebUI and Ollama. |
-| [Kanboard Automation](https://github.com/StevenKearney/kanboard-automation) | Scripts and triggers for automatic archiving, labeling, and backup of boards. |
-| [Unraid VM Streaming](https://github.com/StevenKearney/unraid-steam-vm) | Sunshine/Moonlight GPU streaming setup for Windows VM with RX 580 passthrough. |
-| [Appdata Backup Workflow](https://github.com/StevenKearney/unraid-appdata-backup) | Automated backup routine using rclone and cron inside Unraid. |
+| [TODO Hardware & Network Inventory](https://github.com/StevenKearney) | A full breakdown of my home network and homelab hardware setup.|
+| [TODO Homelab Monitoring Dashboard](https://github.com/StevenKearney) | Uptime Kuma (future add-ons planned) |
+| [TODO AI Docker Stack](https://github.com/StevenKearney) | Self-hosted LLMs, image generation, and testing environment utilizing Open WebUI, Ollama, and more. |
+| [TODO Kanboard](https://github.com/StevenKearney) | A self-hosted Kanban system with light automation.|
+| [TODO Unraid VM Streaming](https://github.com/StevenKearney) | Sunshine/Moonlight GPU streaming setup for Windows VM with RX 580 passthrough. |
+| [TODO Appdata Backup Workflow](https://github.com/StevenKearney) | Automated backup routine using plugins, cron, and user scripts. |
 
 ---
 
 ## 🌐 Networking & Systems
+
+The backbone of any infrastructure. It covers VPNs, network design, DNS, DHCP, VLANs, and everything that keeps systems connected and secure.
+
 | Project | Description |
 |----------|--------------|
-| [Tailscale Remote Access Lab](https://github.com/StevenKearney/tailscale-lab) | Peer-to-peer network for secure remote access to self-hosted services. |
-| [Docker Networking Experiments](https://github.com/StevenKearney/docker-networking) | Isolated bridges, VLANs, and internal routing for container networks. |
-| [Grafana Network Visualization](https://github.com/StevenKearney/grafana-network) | Real-time network topology visualized in Grafana via InfluxDB. |
-| [Home DNS and DHCP](https://github.com/StevenKearney/pihole-dns-lab) | Centralized DNS filtering and DHCP for internal LAN. |
+| [TODO Tailscale Remote Access](https://github.com/StevenKearney) | Access the network remotely and securely using Tailscale VPN. |
+| [TODO Home DNS and DHCP](https://github.com/StevenKearney) | Centralized DNS filtering and DHCP for internal LAN. |
+| [TODO Cloudflare Reverse Proxy](https://github.com/StevenKearney) | Remote reverse proxy / zero trust tunneling for exposed services. |
 
 ---
 
-## 🪚 Personal Builds & Hardware
+## 🪚 Workshop & Fabrication
+
+The hands-on side of things. It covers 3D printing, woodworking, hardware mods, and other physical builds that bring ideas off the screen and into the real world.
+
 | Project | Description |
 |----------|--------------|
-| [Ender 3 Pro Mods](https://github.com/StevenKearney/ender3-mods) | Hardware and firmware upgrades, HeroMe Gen5 cooling, and cable management. |
-| [Motorcycle Electrical Cleanup](https://github.com/StevenKearney/moto-wiring) | Harness redesign with labeled circuits and fuse mapping. |
-| [3D Printed Utilities](https://github.com/StevenKearney/3d-prints) | Custom designs for homelab mounts, brackets, and cable management. |
+| [TODO 3d Printing](https://github.com/StevenKearney) | Some example 3d prints and hardware information. |
+| [TODO Overkill Shoe Rack](https://github.com/StevenKearney) | We needed a  bigger, sturdier shoe rack. Why not make it ridiculously complicated? |
 
 ---
 
 ## 📚 Learning & Labs
 | Project | Description |
 |----------|--------------|
-| [CCNA Lab Notes](https://github.com/StevenKearney/ccna-labs) | Packet Tracer configs and topology notes for CCNA studies. |
-| [Linux Service Hardening](https://github.com/StevenKearney/linux-hardening) | Experiments with systemd sandboxing, namespaces, and AppArmor. |
-| [Active Directory Lab](https://github.com/StevenKearney/ad-lab) | Windows Server + clients environment for GPO and authentication testing. |
+| [TODO CCNA](https://github.com/StevenKearney) | Centralized location for my CCNA study notes, labs,  etc. |
+| [TODO Active Directory Lab](https://github.com/StevenKearney) | Windows Server + clients environment for GPO and authentication testing. |
+| [TODO NOC Skill Boost](https://github.com/StevenKearney) | Learn ServiceNow, Zabbix, Graylog, CLI tools, Bash scripting, network diagramming, and IP planning. |
 
 ---
 
 ## 🧩 About This Portfolio
-All projects are documented privately in [Obsidian](https://obsidian.md) and published here once complete.  
-Each repository includes:
-- **Goals & outcomes**
-- **Tools used and reasoning**
-- **Implementation overview**
-- **Reflection on lessons learned**
+All projects are documented privately in [Obsidian](https://obsidian.md) and published here once complete and sanitized.  
 
-This repo acts as a single navigation point for recruiters, collaborators, and future employers.
+This repository serves as a single navigation point for recruiters, collaborators, and future employers — and for anyone curious about my work or looking for inspiration.
 
 ---
 
 ## 🧾 License
-- Documentation and screenshots: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-- Code and configurations: [MIT License](LICENSE)
+TODO
 
 ---
 
 ## 📬 Contact
-- **LinkedIn:** [linkedin.com/in/steven-kearney](https://linkedin.com/in/steven-kearney)  
+- **LinkedIn:** [https://www.linkedin.com/in/steven-kearney-27a03b32/](https://www.linkedin.com/in/steven-kearney-27a03b32/)  
 - **GitHub:** [github.com/StevenKearney](https://github.com/StevenKearney)
 
-> _"Build, document, and refine."_  
