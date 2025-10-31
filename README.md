@@ -39,7 +39,7 @@ The foundation of this index. It covers my homelab setup, Unraid server, Docker 
 
 | Project | Description |
 |----------|--------------|
-| [Kanboard Workflow Manager](https://github.com/StevenKearney) | A self-hosted Kanban board built with [Kanboard](https://github.com/kanboard/kanboard), featuring automated task management, color-coded priorities, and Discord webhook integration. |
+| [Kanboard Workflow Manager](https://github.com/StevenKearney/Kanboard-Workflow-Manager) | A self-hosted Kanban board built with [Kanboard](https://github.com/kanboard/kanboard), featuring automated task management, color-coded priorities, and Discord webhook integration. |
 
 ---
 
@@ -71,11 +71,6 @@ TODO
 All projects are documented privately in [Obsidian](https://obsidian.md) and published here once complete and sanitized.  
 
 This repository serves as a single navigation point for recruiters, collaborators, and future employers — and for anyone curious about my work or looking for inspiration.
-
----
-
-## 🧾 License
-TODO
 
 ---
 
