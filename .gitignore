@@ -1,0 +1,21 @@
+# Secrets
+secrets/
+*/secrets/
+*.key
+*.pem
+/mnt/user/secrets/
+
+# Env files
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Build artifacts
+dist/
+build/
+node_modules/
+__pycache__/
