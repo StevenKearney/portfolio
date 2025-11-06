@@ -1,14 +1,16 @@
 # 🧠 Steven Kearney - Project Index
 
-🚧 WIP, none of these links work yet, they are placeholders.
+My personal portfolio -- a curated index of the projects, stacks, and systems I’ve built or documented.
 
-This repository is the table of contents for all my finished projects that I decided to make public, grouped by topic.
+Updated periodically to reflect new projects and improvements.
 
 > These aren’t meant to be tutorials, they're records of what I built, what worked, and what I learned.
+>"Build, Break, Fix, Learn, Repeat"
 
 ---
 
-### 🧩 README Contents per Project
+## 🧩 README Contents per Project
+
 Each project repository follows the same formatting so everything is easy to read and compare.
 
 | Section | Description |
@@ -24,12 +26,6 @@ Each project repository follows the same formatting so everything is easy to rea
 | **Personal Reflection** | Thoughts on how the experience changed how I think or work. |
 | **Changelog** | A list of any changes to the project. |
 | **Related Links** | Links to relevant pages or projects.|
-
----
-
-<br>
-
->"Build, Break, Fix, Learn, Repeat"
 
 ---
 
@@ -68,13 +64,14 @@ TODO
 ---
 
 ## 🧩 About This Portfolio
-All projects are documented privately in [Obsidian](https://obsidian.md) and published here once complete and sanitized.  
+
+All projects are documented privately in [Obsidian](https://obsidian.md) and published here once complete and sanitized.
 
 This repository serves as a single navigation point for recruiters, collaborators, and future employers — and for anyone curious about my work or looking for inspiration.
 
 ---
 
 ## 📬 Contact
-- **LinkedIn:** [https://www.linkedin.com/in/steven-kearney-27a03b32/](https://www.linkedin.com/in/steven-kearney-27a03b32/)  
-- **GitHub:** [github.com/StevenKearney](https://github.com/StevenKearney)
 
+- **LinkedIn:** [https://www.linkedin.com/in/steven-kearney-27a03b32/](https://www.linkedin.com/in/steven-kearney-27a03b32/)
+- **GitHub:** [github.com/StevenKearney](https://github.com/StevenKearney)
