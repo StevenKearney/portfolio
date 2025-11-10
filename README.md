@@ -59,7 +59,9 @@ TODO
 
 The experimental side of my work. It covers study environments, test labs, and certification prep used to learn, test, and refine new skills.
 
-TODO
+| Project | Description |
+|----------|--------------|
+| [Active Directory & GPO Lab](https://github.com/StevenKearney/Active-Directory-GPO-Lab) | A self-contained Windows Server lab built to simulate a small business domain environment with Active Directory, Group Policy, DNS, and RDP. Designed for hands-on MSP-style troubleshooting and hosted entirely in my Unraid homelab. |
 
 ---
 
