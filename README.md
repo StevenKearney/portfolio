@@ -11,7 +11,8 @@ Updated periodically to reflect new projects and improvements.
 
 ## 🧩 README Contents per Project
 
-Each project repository follows the same formatting so everything is easy to read and compare.
+**Most** project repositories follow the same formatting so everything is easy to read and compare.
+Some will vary (especially the Tools & Utilities section) if they go beyond simple writeups and are meant as a contribution to the GitHub community.
 
 | Section | Description |
 |----------|-------------|
@@ -65,9 +66,19 @@ The experimental side of my work. It covers study environments, test labs, and c
 
 ---
 
+## 🛠️ Tools & Utilities
+
+The tools and utilities I created for personal use or for learning purposes.
+
+| Project | Description |
+|----------|--------------|
+| [app-inventory](https://github.com/StevenKearney/app-inventory) | A unified Linux CLI inventory tool that scans repo packages, AUR, Flatpaks, Snaps, pip modules, AppImages, Docker/Podman containers, Ollama models, and local binaries. |
+
+---
+
 ## 🧩 About This Portfolio
 
-All projects are documented privately in [Obsidian](https://obsidian.md) and published here once complete and sanitized.
+All projects are documented privately, and published here once sanitized and deemed viable for public viewing.
 
 This repository serves as a single navigation point for recruiters, collaborators, and future employers — and for anyone curious about my work or looking for inspiration.
 
